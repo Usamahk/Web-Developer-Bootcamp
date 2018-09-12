@@ -1,0 +1,26 @@
+ p{
+
+/*Content - Width and height*/
+
+width:50%;
+
+/*Border */
+
+border: 2px solid blue;
+
+/*Padding*/
+
+padding-left: 40px;
+
+/*Margin*/
+
+/*margin: 100px;*/
+/*margin-top: 300px*/
+/*margin:20px 40px 300px 100px;*/
+/*margin: 0 auto 0 auto;*/
+/*or*/
+margin: 0 auto;
+
+margin: 20px 20px; Need the px for both unless its 20
+
+}
