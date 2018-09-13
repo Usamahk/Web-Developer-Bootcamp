@@ -1,0 +1,23 @@
+h1 {
+	font-family: Georgia;
+	font-style: bold;
+	font-size: 50px;
+	padding: 1px;
+	margin: 10px;
+}
+
+h1::first-letter {
+	font-size: 60px;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	padding: 10px;
+}
+
+img {
+	width: 100%;
+}
