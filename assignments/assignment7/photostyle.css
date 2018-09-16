@@ -6,12 +6,17 @@ h1 {
 	margin: 10px;
 }
 
+#top {
+	border-top: 2px solid rgba(0, 0, 0, 0.4);
+}
+
 h1::first-letter {
 	font-size: 60px;
 }
 
 table {
 	margin: auto;
+	column-width: 33%;
 }
 
 td {
